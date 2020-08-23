@@ -142,7 +142,7 @@ body {
 }
 .inner {
   display: inline;
-  float: left;
+  justify-content: center;
   width: 98.33333333333333%;
   margin: 0 0.833333333333333%;
 }
